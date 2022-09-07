@@ -3,6 +3,7 @@ import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 import 'bibliotheque_screen.dart';
 import 'home_screen.dart';
+import 'top_screen.dart';
 
 class PageViewScreen extends StatefulWidget {
   const PageViewScreen({Key? key}) : super(key: key);
@@ -45,7 +46,7 @@ class _PageViewScreenState extends State<PageViewScreen> {
               height: size.height,
               child: PageView(
                 controller: controller,
-                children: const [BlibliothequeScreen(), HomeScreen()],
+                children: const [BlibliothequeScreen(), HomeScreen(), TopScreen()],
               ),
             ),
           ],
