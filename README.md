@@ -1,16 +1,9 @@
 # shazam
 
 A new Flutter project.
+![Screenshot_1681739475](https://user-images.githubusercontent.com/70517765/232504633-ab5693d5-e5cc-433f-8799-06a9c7f958e9.png)
 
-## Getting Started
+![Screenshot_1681739478](https://user-images.githubusercontent.com/70517765/232504696-418fac2e-09eb-4104-9df2-7c33d9bd6822.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot_1681739481](https://user-images.githubusercontent.com/70517765/232504701-71fd720a-0f45-462b-9c08-8e505d89c112.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
